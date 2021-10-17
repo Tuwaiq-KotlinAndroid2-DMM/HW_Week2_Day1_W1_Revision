@@ -29,7 +29,7 @@ fun createFileAndPopulate(fileName: String){
     var createFile = File(folder,fileName)
     //car information
     var text = "Toyota, Camry, 2016, 40000\nDodge, Charger, 2021, 70000\nFord, Expedition, 2018, 125000\nBMW, X6, 2020, 240000\nMercedes, GLE Coupe, 2020, 260000\n"
-    var text2 = "Mazda, CX, 2019, 110000\n Tesla, Model X, 2018, 175000\nTesla, Model S, 2020, 135000\nPurche, Carera, 2021, 450000\nMasarati, M1, 2021, 500000"
+    var text2 = "Mazda, CX, 2019, 110000\nTesla, Model X, 2018, 175000\nTesla, Model S, 2020, 135000\nPurche, Carera, 2021, 450000\nMasarati, M1, 2021, 500000"
     //writing information inside text file
     createFile.writeText(text)
     createFile.appendText(text2)
