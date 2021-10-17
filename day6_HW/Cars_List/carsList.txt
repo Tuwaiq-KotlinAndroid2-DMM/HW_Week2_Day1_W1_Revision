@@ -1,0 +1,10 @@
+Toyota, Camry, 2016, 40000
+Dodge, Charger, 2021, 70000
+Ford, Expedition, 2018, 125000
+BMW, X6, 2020, 240000
+Mercedes, GLE Coupe, 2020, 260000
+Mazda, CX, 2019, 110000
+ Tesla, Model X, 2018, 175000
+Tesla, Model S, 2020, 135000
+Purche, Carera, 2021, 450000
+Masarati, M1, 2021, 500000
