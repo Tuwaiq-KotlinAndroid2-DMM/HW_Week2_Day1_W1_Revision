@@ -1,0 +1,3 @@
+Toyota, Camry, 30000, 2020
+Mercedes, G10, 75000, 2021
+Ferrari, MC3000, 175000, 2018
