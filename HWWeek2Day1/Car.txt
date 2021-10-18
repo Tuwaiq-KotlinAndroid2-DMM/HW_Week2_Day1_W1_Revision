@@ -1,0 +1,4 @@
+Mercedes, GLE Coupe,2020,260000,
+BMW, X6,2020,240000,
+Toyota, Camry,2020,80000,
+Mazda, 6,2018,120000,
