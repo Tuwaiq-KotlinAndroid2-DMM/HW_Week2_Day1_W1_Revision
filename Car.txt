@@ -1,0 +1,4 @@
+Tesla, Model X, 2021, 900000
+Toyota, Camry, 2014, 15000
+Kia, Cadenza, 2013, 90000
+Ford, Taurus, 2019, 100000
